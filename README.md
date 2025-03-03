@@ -29,7 +29,3 @@ This section focuses on implementing semantic search with large language models.
 
 ## 📌 About
 This repository serves as a hands-on guide for researchers, engineers, and practitioners interested in pretraining LLMs, enhancing retrieval-augmented generation techniques, and implementing semantic search. The tutorials provide step-by-step explanations and practical code implementations.
-
-Feel free to explore, contribute, or raise issues if you have any suggestions!
-
-🚀 Happy Learning!
